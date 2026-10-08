@@ -6,7 +6,7 @@ Filament plugin for GoatCounter with a settings page powered by Spatie Laravel S
 
 @verbatim
 <code-snippet name="Install the plugin" lang="bash">
-composer require jeffersongoncalves/filament-goatcounter:"^2.0"
+composer require jeffersongoncalves/filament-goatcounter:"^3.0"
 php artisan vendor:publish --tag=goatcounter-settings-migrations
 php artisan migrate
 </code-snippet>
