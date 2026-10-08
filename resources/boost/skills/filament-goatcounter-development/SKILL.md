@@ -13,9 +13,9 @@ description: Build and work with the Filament GoatCounter plugin — settings pa
 
 ## Package Overview
 
-- **Package**: `jeffersongoncalves/filament-goatcounter` (branch `1.x`)
+- **Package**: `jeffersongoncalves/filament-goatcounter` (branch `2.x`)
 - **Namespace**: `JeffersonGoncalves\Filament\GoatCounter`
-- **Dependencies**: `jeffersongoncalves/filament-analytics-core:^1.0`, `jeffersongoncalves/laravel-goatcounter:^1.0`
+- **Dependencies**: `jeffersongoncalves/filament-analytics-core:^2.0`, `jeffersongoncalves/laravel-goatcounter:^1.0`
 
 ## Setup
 
