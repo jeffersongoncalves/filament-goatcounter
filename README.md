@@ -67,6 +67,15 @@ GoatCounterPlugin::make()
 
 To render the script outside Filament, add `@include('goatcounter::script')` to your own layout.
 
+### Navigation group
+
+Put the settings page in one of your panel's own navigation groups (a string or a closure):
+
+```php
+GoatCounterPlugin::make()
+    ->navigationGroup(fn (): string => __('admin.navigation.settings')),
+```
+
 ## Requirements
 
 - PHP 8.2 or higher
